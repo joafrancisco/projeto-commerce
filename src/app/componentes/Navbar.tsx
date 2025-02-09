@@ -18,7 +18,7 @@ function Navbar() {
 
         <SignedOut>
           <SignInButton mode="modal">
-            <button className="border uppercase rounded-md border-gray-400 px-3 py-2">
+            <button className="border uppercase  rounded-md border-gray-400 px-3 py-2">
               Fazer login
             </button>
           </SignInButton>
